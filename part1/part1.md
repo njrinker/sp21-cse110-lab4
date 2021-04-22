@@ -17,7 +17,7 @@
 
 2. The program will not reach this line due to the program exiting from the previous error above.
 
-# part 1b
+# Part 1b
 1. The output will be "3". 
     - Explanation: The reason for this is because the program is printing out the variable i, which will increment once for every inputted price into the program. In this case three prices are inputted, so i will increment three times. 
 
